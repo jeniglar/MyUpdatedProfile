@@ -10,8 +10,8 @@ function CreateNav() {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="ml-auto navlink">
-                        <Nav.Link href="/home">Home</Nav.Link>
-                        <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+                        <Nav.Link href="/Home">Home</Nav.Link>
+                        <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
 
