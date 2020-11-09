@@ -20,3 +20,29 @@ body {
   border-top: 8px #78C2AD solid;
   background-color: rgb(247, 167, 181) !important
 }
+
+.card {
+  display:inline-block;
+  width: 300px;
+  padding: 20px;
+  margin: 20px
+}
+
+.card-img-top {
+  max-height: 300px;
+  max-width: 300px;
+}
+.project {
+  text-align: center;
+  font-size: 28px
+}
+
+.btn {
+  background-color: #78C2AD;
+  font-weight: bold;
+  margin: 10px;
+}
+
+Card.Body {
+  align-content: center;
+}
