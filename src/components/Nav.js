@@ -6,7 +6,7 @@ function CreateNav() {
     return (
         <>
             <Navbar collapseOnSelect expand="lg" className="shadow pt-2 pb-2 navbar bg-light navbar-light">
-                <Navbar.Brand className="name" href="/home">Jen Iglar</Navbar.Brand>
+                <Navbar.Brand className="name" href="/Home">Jen Iglar</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="ml-auto navlink">
