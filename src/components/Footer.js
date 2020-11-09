@@ -3,7 +3,6 @@ import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
 
 
-
 function CreateFooter() {
     return (
         <>
@@ -14,6 +13,6 @@ function CreateFooter() {
             </Nav>
         </>
     );
-}
+};
 
 export default CreateFooter;

@@ -12,7 +12,7 @@ function Home() {
                         <h1 class="text-primary">About Me</h1>
                         <section class="row no-gutters">
                             <section class="col-md-4">
-                                <img src="./Assets/jen.jpg" class="card-img" alt="Woman in a pink sweater"/>
+                                <img src="/Assets/jen.jpg" class="card-img" alt="Woman in a pink sweater"/>
                             </section>
                             <section class="col-md-8">
                                 <section class="card-body">

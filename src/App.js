@@ -10,11 +10,11 @@ function App() {
     <>
     <CreateNav />
     <CreateFooter />
-      <Router>
-          <Route exact path="/" component={ Home } />
-          <Route exact path="/Home" component={ Home } />
-          <Route exact path="/Portfolio" component={ Portfolio } />
-      </Router>
+    <Router>
+        <Route exact path="/" component={ Home } />
+        <Route exact path="/Home" component={ Home } />
+        <Route exact path="/Portfolio" component={ Portfolio } />
+    </Router>
     </>
   );
 }

@@ -2,42 +2,42 @@
     {
         "id": 0,
         "project": "Trip Wishlist",
-        "image": "../public/Assets/trip.png",
+        "image": "/Assets/trip.png",
         "link": "https://trip-wishlist.herokuapp.com/",
         "repository": "https://github.com/jeniglar/Trip-Wishlist"
     },
     {
         "id": 1,
         "project": "Team Generator",
-        "image": "../public/Assets/team.png",
+        "image": "/Assets/team.png",
         "link": "https://drive.google.com/file/d/1xcmFO2T-9M_f16minyJROIICWchpUMo9/view?usp=sharing",
         "repository": "https://github.com/jeniglar/TeamGenerator"
     },
     {
         "id": 2,
         "project": "Local Brews",
-        "image": "../public/Assets/brews.png",
+        "image": "/Assets/brews.png",
         "link": "https://jeniglar.github.io/Local-Brews/",
         "repository": "https://github.com/jeniglar/Local-Brews"
     },
     {
         "id": 3,
         "project": "Code Quiz",
-        "image": "../public/Assets/quiz.png",
+        "image": "/Assets/quiz.png",
         "link": "https://jeniglar.github.io/CodeQuiz/",
         "repository": "https://github.com/jeniglar/CodeQuiz"
     },
     {
         "id": 4,
         "project": "Day Planer",
-        "image": "../public/Assets/dayplanner.png",
+        "image": "/Assets/dayplanner.png",
         "link": "https://jeniglar.github.io/DayPlanner/",
         "repository": "https://github.com/jeniglar/DayPlanner"
     },
     {
         "id": 5,
         "project": "Weather Dashboard",
-        "image": "../public/Assets/weather.png",
+        "image": "/Assets/weather.png",
         "link": "https://jeniglar.github.io/WeatherDashboard/",
         "repository": "https://github.com/jeniglar/WeatherDashboard"
     }
