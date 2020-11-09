@@ -1,13 +1,22 @@
 body {
+  background-image: url('./Assets/geometric-leaves.png');
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.myNav {
+  background-color: #78C2AD;
+  color: white !important
+}
+
+.name {
+  color: white !important
+}
+
+.about {
+  color: #78C2AD !important
+}
+
+.footer {
+  border-top: 8px #78C2AD solid;
+  background-color: rgb(247, 167, 181) !important
 }

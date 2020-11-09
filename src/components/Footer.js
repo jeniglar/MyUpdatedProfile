@@ -6,9 +6,9 @@ import Container from 'react-bootstrap/Container';
 function CreateFooter() {
     return (
         <>
-            <Nav className="shadow navbar fixed-bottom bg-light navbar-light">
+            <Nav className="footer navbar fixed-bottom bg-light navbar-light">
                 <Container className="container">          
-                    <p class="footer mx-auto text-center">&copy;</p>
+                    <p class="mx-auto text-center">&copy;</p>
                 </Container>
             </Nav>
         </>

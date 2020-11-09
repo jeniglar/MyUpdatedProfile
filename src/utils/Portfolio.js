@@ -8,7 +8,6 @@ function CreatePortfolio() {
     return (
         <>
             <Container className="py-5 mb-5 ml-4">
-                    <h1> Portfolio </h1>
                     <Row className="pt-2 pl-5">
                         {projects.map(projects =>(
                         <CreateProject
